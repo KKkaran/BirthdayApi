@@ -1,0 +1,32 @@
+{
+    "data":[
+        {
+            "name":"Karan Sodhi",
+            "DOB":"September 28, 1996",
+            "Place" : "India"
+        },
+        {
+            "name":"Aman Kaur",
+            "DOB":"November 13, 1994",
+            "Place" : "India"
+        },
+        {
+            "name":"Harvey Specter",
+            "DOB":"September 8, 1970",
+            "Place" : "USA"
+        },
+        {
+            "name":"Rasputin",
+            "DOB":"March 2, 1919",
+            "Place" : "Russia"
+        },
+        {
+            "name":"Chris Hemsworth",
+            "DOB":"February 1, 1970",
+            "Place" : "Australia"
+        }
+
+
+    ]
+
+}
